@@ -11,7 +11,7 @@ from utilsdf.db import Database
 from utilsdf.vars import PREFIXES
     
 API_ID = '16650069'
-API_HASH = '96b8dea447ef580b5b75b01ccc3ab710'
+API_HASH = 'a4373bc737d0c78881d48dd62eed7268'
 BOT_TOKEN = '7586600726:AAG5aNbZfQNOzRhJhGqgCsB4ScMeNKNJhKA'
 CHANNEL_LOGS = '-1002865627607'
 
