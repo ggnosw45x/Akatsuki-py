@@ -50,7 +50,7 @@ async def user_ban(client: Client, m: Message):
         return
     chat_id = m.chat.id
     with Database() as db:
-        if chat_id == -1002474159521:
+        if chat_id == -4606440296:
             async for member in m.chat.get_members():
                 if not member.user:
                     continue
